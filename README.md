@@ -20,7 +20,7 @@ I'm a passionate **Computer Science student** exploring the endless possibilitie
 - Innovative software solutions
 
 ## 📫 How to Reach Me
-- Email: [donkorjoel@gmail.com](mailto:donkorjoel@gmail.com)
+- Email: [donkorjoel@gmail.com](mailto:donkorjoel203@gmail.com)
 
 ## 😄 Pronouns
 - He/Him
