@@ -1,12 +1,11 @@
 <div align="center">
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 # 👨‍💻 Joel Sam Donkor
 
-### Full-Stack Developer | System Architecture Enthusiast | AI Enthusiast
+### Full-Stack Developer | System Architecture Enthusiast | Ghana 🇬🇭
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+scalable+systems;Architecting+elegant+solutions;Passionate+about+clean+code;Always+learning%2C+always+growing" alt="Typing SVG" />
 
@@ -68,19 +67,19 @@ const joel = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joeldonkor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Joel's GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joeldonkor&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="Joel's Top Languages"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joeldonkor&theme=tokyonight&hide_border=true&background=0D1117" alt="Joel's GitHub Streak"/>
-</div>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joeldonkor&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="joeldonkor" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joeldonkor&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="joeldonkor" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joeldonkor&theme=tokyonight&hide_border=true&background=0D1117" alt="joeldonkor" /></p>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joeldonkor&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Joel's Trophies"/>
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joeldonkor&theme=tokyo-night&hide_border=true&bg_color=0D1117)
+
 </div>
 
 ## 🎯 Current Focus
